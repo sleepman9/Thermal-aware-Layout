@@ -1,2 +1,2 @@
 # Thermal-aware-Layout
-base thermal aware on PCB layout
+Base thermal aware on PCB layout
